@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-core
+langgraph
+pydantic
+python-dotenv
+httpx
+# AI Providers
+langchain-google-genai
+langchain-openai  # Generic interface, can be used for DeepSeek if compatible or custom
+pydantic-settings==2.7.1
